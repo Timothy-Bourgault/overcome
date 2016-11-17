@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the committees feature.
+ */
+
+include_once 'committees.features.inc';
